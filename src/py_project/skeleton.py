@@ -43,6 +43,8 @@ def fib(n):
         a, b = b, a+b
     return a
 
+def greeting():
+    print('Hello from the project....')
 
 def parse_args(args):
     """Parse command line parameters
