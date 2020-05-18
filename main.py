@@ -1,5 +1,5 @@
 from flask import escape
-from py_project.skeleton import greeting
+#from py_project.skeleton import greeting
 
 def hello_http(request):
     """HTTP Cloud Function.
